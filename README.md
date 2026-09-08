@@ -4,18 +4,19 @@ A repository of training resources for my entry level cybersecurity program stud
 
 # Security
 
-* Cryptography 101 with Alfred Menezes - https://cryptography101.ca/ 
+* Cryptography 101 with Alfred Mendez
+https://cryptography101.ca/ 
 
-* Introduction to Cryptography by Christof Paar -  https://m.youtube.com/watch?v=2aHkqB2-46k&list=PL3boZvi-wmN6r4HUGUpRSk5uhEcTNfjSS
+* Introduction to Cryptography by Christof Paar https://m.youtube.com/watch?v=2aHkqB2-46k&list=PL3boZvi-wmN6r4HUGUpRSk5uhEcTNfjSS
 
-* Cryptography I - https://www.coursera.org/learn/crypto?action=enroll
+* Cryptography I https://www.coursera.org/learn/crypto?action=enroll
 
-* Information and learning resources for cryptography newcomers - 
+* Information and learning resources for cryptography newcomers
 https://www.reddit.com/r/cryptography/comments/scb6pm/information_and_learning_resources_for/
 
-* Cryptopals - https://www.cryptopals.com/
+* Cryptopals https://www.cryptopals.com/
 
-* Number Theory - 
+* Number Theory
 https://explained-from-first-principles.com/number-theory/
 
 # Games for Hackers 
