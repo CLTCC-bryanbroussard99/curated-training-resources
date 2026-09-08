@@ -1,11 +1,12 @@
-# curated-training-resources
+# Curated Training Resources
+
 a repository of training resources for my entry level cybersecurity program students
 
-#Security
+# Security
 
-* **https://cryptography101.ca/ Cryptography 101 with Alfred Menezes
+* ttps://cryptography101.ca/ Cryptography 101 with Alfred Menezes
 
-* **  https://m.youtube.com/watch?v=2aHkqB2-46k&list=PL3boZvi-wmN6r4HUGUpRSk5uhEcTNfjSS Introduction to Cryptography by Christof Paar
+*  https://m.youtube.com/watch?v=2aHkqB2-46k&list=PL3boZvi-wmN6r4HUGUpRSk5uhEcTNfjSS Introduction to Cryptography by Christof Paar
 
 * **Cryptography I
 Dan Boneh
