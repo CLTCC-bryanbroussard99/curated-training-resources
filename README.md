@@ -21,7 +21,15 @@ https://www.reddit.com/r/cryptography/comments/scb6pm/information_and_learning_r
 * Number Theory  
 https://explained-from-first-principles.com/number-theory/
 
+# games for hackers 
+* hacknet
+* uplink 
+* bitburner 
+* exapunks
+* nite team 4 - military hacking division
+.
 
+* 
 
 
 # Linux
