@@ -4,9 +4,9 @@ A repository of training resources for my entry level cybersecurity program stud
 
 # Security
 
-* https://cryptography101.ca/ Cryptography 101 with Alfred Menezes
+* Cryptography 101 with Alfred Menezes - https://cryptography101.ca/ 
 
-* https://m.youtube.com/watch?v=2aHkqB2-46k&list=PL3boZvi-wmN6r4HUGUpRSk5uhEcTNfjSS Introduction to Cryptography by Christof Paar
+*Introduction to Cryptography by Christof Paar -  https://m.youtube.com/watch?v=2aHkqB2-46k&list=PL3boZvi-wmN6r4HUGUpRSk5uhEcTNfjSS
 
 * Cryptography I - https://www.coursera.org/learn/crypto?action=enroll
 
