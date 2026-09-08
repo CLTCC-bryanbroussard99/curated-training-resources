@@ -1,6 +1,6 @@
 # Curated Training Resources
 
-a repository of training resources for my entry level cybersecurity program students
+A repository of training resources for my entry level cybersecurity program students
 
 # Security
 
