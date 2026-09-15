@@ -45,5 +45,4 @@ https://www.freecodecamp.org/news/the-python-guide-for-beginners/
 
 * vulnhub
 * https://tryhackme.com
-* vulnhub 
 * https://hackthebox.com
