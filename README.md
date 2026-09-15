@@ -44,6 +44,6 @@ https://www.freecodecamp.org/news/the-python-guide-for-beginners/
 # Dumping Ground
 
 * vulnhub
-* tryhackme.com
+* https://tryhackme.com
 * vulnhub 
-* hackthebox.com
+* https://hackthebox.com
